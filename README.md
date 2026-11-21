@@ -1,0 +1,1 @@
+# Our Store for Rails Laboratory
